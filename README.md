@@ -10,7 +10,7 @@ User's select a survey period and then choose from publically available variable
 
 A scatter plot of two biomarkers of smoke exposure
 
-![Scatter Plot](link)
+![Scatter Plot](https://github.com/aha1994/NHANES-Showcase/blob/main/Photos/Scatter.PNG)
 
 
 
@@ -18,7 +18,7 @@ A scatter plot of two biomarkers of smoke exposure
 
 A box plot of a biomarker of smoke exposure by monthly family income brackets.
 
-![Box Plot](link)
+![Box Plot](https://github.com/aha1994/NHANES-Showcase/blob/main/Photos/Box%20plot.PNG)
 
 
 
@@ -31,7 +31,7 @@ This tool allows users to select a variable, mean type, set of sample weights, a
 
 Arithmetic Mean Serum Cotinine values with weighting.
 
-![Exposure Report](link) 
+![Exposure Report](https://github.com/aha1994/NHANES-Showcase/blob/main/Photos/national%20expoure%20report%20match.PNG) 
 
 
 This tool below is used to visualize trends of different variable measurements weighted on population data. The user can download a graphics interchange format (gif) file that flips through variable histograms of each survey year. For each frame of the gif, identical x and y axis scales will be used so that it is easy to see how values change across different survey years. There are a few parameters the the user can use to modify the histogram output.
@@ -40,7 +40,7 @@ This tool below is used to visualize trends of different variable measurements w
 
 Histogram of weighted serum cotinine (biomarker of smoke exposure) values over time.
 
-![Exposure Gif](link) 
+![Exposure Gif](https://github.com/aha1994/NHANES-Showcase/blob/main/Photos/LBXCOT_histogram.gif) 
 
 
 This tool allows users to compare the distribution of laboratory results of the US population by Gender or Race. Comparative weighted histograms are displayed, showing an accurate representation of the percentage of each subpopulation in the US at each range of values. This tool is useful for identifying disparities in exposure and/or biological health measurements for different groups in the US. Users may select the year, variable, and domain (subgroups) they would like to see represented. The user can also edit the number of bins, log transform the x-axis and/or, limit the data to examine more detailed visual comparisons.
@@ -49,4 +49,4 @@ This tool allows users to compare the distribution of laboratory results of the 
 
 Histograms of weighted blood mercury values by race
 
-![Comparison](link) 
+![Comparison](https://github.com/aha1994/NHANES-Showcase/blob/main/Photos/Blood%20mercury%20differences.PNG) 
